@@ -1,0 +1,6 @@
+streamlit
+requests
+openai
+plotly
+pandas
+openpyxl  # <--- 必须添加这一行
